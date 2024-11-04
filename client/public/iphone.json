@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "product_id": 22,
+      "product_url": "iphone 15 pro",
+      "product_name": "iphone 15 pro",
+      "description_id": 9,
+      "product_brief_description": "The iPhone 15 Pro is Apple’s flagship smartphone, engineered for high performance with advanced materials and features. It introduces a titanium frame, making it lighter and more ",
+      "product_description": "wuihaksfkajias sgnjng ",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AG6A7_N6Ig4eN_O-BiCnHycwhPuMnCY9Vg&s",
+      "product_link": "apple",
+      "price_id": 21,
+      "starting_price": "$40",
+      "price_range": "$87"
+    },
+    {
+      "product_id": 23,
+      "product_url": "iphone 14",
+      "product_name": "iphone 14",
+      "description_id": 10,
+      "product_brief_description": "The iPhone 14 continues Apple’s tradition of sleek design and powerful performance. It features a durable Ceramic Shield front, aluminum body, and is available in a range of colors.",
+      "product_description": "asufhcjsdn",
+      "product_img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-126771/Apple-iPhone-14-Pro_FINAL_featured-image-packshot-review-1.jpg",
+      "product_link": "apple",
+      "price_id": 22,
+      "starting_price": "$40",
+      "price_range": "$87"
+    },
+    {
+      "product_id": 24,
+      "product_url": "iphone 12",
+      "product_name": "iphone12",
+      "description_id": 11,
+      "product_brief_description": "The iPhone 12 introduced 5G connectivity and a new flat-edge design, combining style with performance. Featuring a Super Retina XDR display, it offers vibrant colors and sharp details, perfect for photos, videos, and gaming.",
+      "product_description": "asufhcjsdn",
+      "product_img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125834/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg",
+      "product_link": "apple",
+      "price_id": 23,
+      "starting_price": "$475",
+      "price_range": "$874"
+    },
+    {
+      "product_id": 25,
+      "product_url": "iphone 16",
+      "product_name": "iphone 16",
+      "description_id": 12,
+      "product_brief_description": "The iPhone 16 introduces several significant upgrades, focusing on performance, camera features, and user experience. Powered by the new A18 chipset.",
+      "product_description": "ltjwkdjfkd vod vijd vidj soidj sdj ",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuLVIT-McQjUFzDxbxYMUY-gBqysWig7yOQ&s",
+      "product_link": "apple img",
+      "price_id": 24,
+      "starting_price": "$300",
+      "price_range": "$874"
+    }
+  ]
+}
